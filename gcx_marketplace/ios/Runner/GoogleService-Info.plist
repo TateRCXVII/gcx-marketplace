@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432604203617-7ksin54237bcrt4nvgbpigs9oeqoe1ah.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432604203617-7ksin54237bcrt4nvgbpigs9oeqoe1ah</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALlU-BV0Qll6mLqAa-0x6e3RIJSHc-SpY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432604203617</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gcxMarketplace</string>
+	<key>PROJECT_ID</key>
+	<string>gcx-stagram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gcx-stagram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432604203617:ios:f375e6f1d5307d94f47820</string>
+</dict>
+</plist>
